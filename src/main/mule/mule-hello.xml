@@ -15,7 +15,7 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 				<ee:set-payload ><![CDATA[%dw 2.0
 output application/json
 ---
-"CICD pipeline working"]]></ee:set-payload>
+"CICD pipeline working perfectly. Code deployed to Cloudhub"]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
 	</flow>
